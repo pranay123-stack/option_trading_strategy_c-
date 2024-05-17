@@ -1,0 +1,6 @@
+//compile
+g++ IronCondorStrategy.cpp main.cpp -o output
+
+//run
+
+./output

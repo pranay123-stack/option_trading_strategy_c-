@@ -1,0 +1,7 @@
+
+//compile
+g++ option_pricing.cpp -o option_pricing
+
+
+//run
+./option_pricing
